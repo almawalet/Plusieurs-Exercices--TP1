@@ -1,0 +1,70 @@
+Nom complet: Almaoudata Walet Babahmed
+Numéro de dossier (NI): 537302203
+Lien vers le dépôt GitHub PRIVÉ de votre TP: 
+Estimation du temps de réalisation: 3-6 heures
+
+
+Exercice 1 (23 points)
+----------------------
+
+/2: Affichage correct de la bannière et du slogan
+    Commentaires: 
+
+/2: Gestion correcte du nombre de billets (y compris le cas où 0 billets sont demandés)
+    Commentaires: 
+
+/2: Affichage correct du numéro du passager pour chaque billet (format : Passager X/Y
+    Commentaires: 
+
+/5: Calcul et affichage correct du prix du billet (y compris la gestion des rabais)
+    Commentaires: 
+
+/2: Affichage du rabais lorsque applicable
+    Commentaires: 
+
+/3: Affichage du montant total à encaisser pour un client (si le nombre de billets est supérieur à 0
+    Commentaires: 
+
+/3: Affichage correct du menu (avec validation des choix d'entrée utilisateur : 1 ou 2
+    Commentaires: 
+
+/2: Affichage correct du montant total cumulé pour tous les clients enregistrés
+    Commentaires: 
+
+/2: Qualité du code (noms de variables, lisibilité, commentaires, respect des «interdits» pour ce travail)
+    Commentaires: 
+
+
+Exercice 2 (10 points)
+----------------------
+
+/2: Validation correcte de la hauteur de la pyramide (un minimum de 4)
+    Commentaires: 
+
+/2: Affichage du message d'erreur approprié pour les hauteurs incorrectes
+    Commentaires: 
+
+/4: Exactitude du dessin de la pyramide selon la hauteur valide fournie
+    Commentaires: 
+
+/2: Qualité du code (noms de variables, lisibilité, respect des «interdits» pour ce travail)
+    Commentaires: 
+
+
+-------
+
+/2: Lien du dépôt GitHub PRIVÉ présent et démontrant l'utilisation de Git
+    Commentaires: 
+
+
+Pénalités pour non-respect des consignes
+----------------------------------------
+
+
+
+Autres commentaires du correcteur
+---------------------------------
+
+
+Total: /35
+
